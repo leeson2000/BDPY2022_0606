@@ -1,0 +1,5 @@
+Python（英國發音：/ˈpaɪθən/ 美國發音：/ˈpaɪθɑːn/），是一種廣泛使用的直譯式、進階和通用的程式語言。Python支援多種程式設計範式，包括函數式、指令式、反射式、結構化和物件導向程式設計。它擁有動態型別系統和垃圾回收功能，能夠自動管理記憶體使用，並且其本身擁有一個巨大而廣泛的標準庫。它的語言結構以及物件導向的方法旨在幫助程式設計師為小型的和大型的專案編寫清晰的、合乎邏輯的程式碼。
+Python（パイソン）はインタープリタ型の高水準汎用プログラミング言語である。グイド・ヴァン・ロッサムにより創り出され、1991年に最初にリリースされたPythonの設計哲学は、有意なホワイトスペース(オフサイドルール)の顕著な使用によってコードの可読性を重視している。その言語構成とオブジェクト指向のアプローチは、プログラマが小規模なプロジェクトから大規模なプロジェクトまで、明確で論理的なコードを書くのを支援することを目的としている。
+Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]
+
+Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[33][34]
