@@ -18,7 +18,4 @@ ausData = df1[df1['Country Code'] == "AUS"]
 print(ausData.shape)
 years = ['1960', '1970', '1980', '1990']
 ausData.plot(kind='bar', y=years, figsize=(12, 6), fontsize=14)
-plt.xticks([])
-plt.title("Aus data with 60-90 years")
-
 plt.show()
